@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @j-04
 - 👀 I’m interested in Java technologies, Code design, System design.
 - 🌱 I’m currently learning Reactive stack, System design.
-- 📫 How to reach me https://www.linkedin.com/in/sergey-dragosh-277b19238/ or via email dragoshs.j@yahoo.com
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dragoshsj/) or via email dragoshs.j@yahoo.com
